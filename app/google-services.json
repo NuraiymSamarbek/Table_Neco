@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956275817705",
+    "project_id": "tabladeanuncios-a42a9",
+    "storage_bucket": "tabladeanuncios-a42a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956275817705:android:6abd5c9ca4e80977540478",
+        "android_client_info": {
+          "package_name": "com.example.table_neco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956275817705-9u0jqhkd4gqtl112bq5l3sihq27nutng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByUVAC8ZzSWqLo92foMmnh1uoCM0DXEMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956275817705-9u0jqhkd4gqtl112bq5l3sihq27nutng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
